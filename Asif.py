@@ -416,7 +416,7 @@ def setting():
 def passwrd():
 	os.system('clear')
 	banner()
-	print(f"\033[97;1m[\033[92;1m+\033[97;1m]\033[1;92m ASIF-SAKHANI\033[1;91m :\033[1;96m "+XD)
+	print(f"\033[97;1m[\033[92;1m+\033[97;1m]\033[1;92m ASIF-SAKHANI\033[1;91m :\033[1;96m "+XD")
 	print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTOTAL IDz :\033[0;97m '+str(len(id)))
 	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;95mCloning Speed Super Fast")
 	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTURN ON/OFF FLIGHT MODE IN EVERY 5 MIN")
