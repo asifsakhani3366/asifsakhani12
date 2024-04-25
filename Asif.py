@@ -168,7 +168,7 @@ os.system('clear')
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m Asif Sakhani\033[1;91m:\33[1;32m')
 os.system('espeak -a 300 " Welcome,   to,  Asif,  Sakhani,  Tools"')
-os.system('xdg-opengit: https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWKwL')
+os.system('xdg-opengit:https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWKwL')
 def banner():
 	os.system("clear")
 	print (f"""
