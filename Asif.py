@@ -521,7 +521,7 @@ if __name__=='__main__':
 	except:pass
 
 def Subscraption():
-	key1=open('/storage/emulated/0/Download/Sakhani.txt', 'r').read()
+	key1=open('/storage/emulated/0/Download/Sakhani.txt').read()
 	r1=requests.get("https://github.com/asifsakhani3366/Asif14/blob/main/Sakhani.txt").text
 	if key1 in r1:
 		os.system('clear')
