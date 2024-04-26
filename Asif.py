@@ -416,7 +416,7 @@ def setting():
 def passwrd():
 	os.system('clear')
 	banner()
-	print(f"\033[97;1m[\033[92;1m+\033[97;1m]\033[1;92m ASIF-SAKHANI\033[1;91m :\033[1;96m "+XD)
+	print(f"\033[97;1m[\033[92;1m+\033[97;1m]\033[1;92m ASIF-SAKHANI\033[1;91m :\033[1;96m ")
 	print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTOTAL IDz :\033[0;97m '+str(len(id)))
 	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;95mCloning Speed Super Fast")
 	print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTURN ON/OFF FLIGHT MODE IN EVERY 5 MIN")
@@ -521,7 +521,7 @@ if __name__=='__main__':
 	except:pass
 
 def Subscraption():
-	key1=open('/storage/emulated/0/Download/Sakhani.txt','r').read()
+	key1=open('/storage/emulated/0/android8.txt', 'r').read()
 	r1=requests.get("https://github.com/asifsakhani3366/Asif14/blob/main/Sakhani.txt").text
 	if key1 in r1:
 		os.system('clear')
