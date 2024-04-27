@@ -1640,7 +1640,7 @@ def clear():
 def back():
     login()
 def contact():
-    os.system('xdg-open https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWKwL)
+    os.system('xdg-open https://www.facebook.com/profile.php?id=100063307807505&mibextid=ZbWK')
     back()
 def linex():
     print('\033[1;37m')
