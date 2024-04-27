@@ -26,7 +26,7 @@ os.system('pip install bs4')
 os.system("pkg install espeak")
 #os.system("pkg update")
 print('\033[95;1m[\x1b[38;5;50m+\033[95;1m] \x1b[38;5;50mCHECKING UPDATE...? ')
-os.system("espeak -a 300 \"Checking,Update,\"")
+os.system("espeak -a 300 \"Opening Asif SAKHANI Tool,\"")
 time.sleep(2)
 #os.system('clear')
 print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE VERSHON 6.1...! ')
@@ -36,8 +36,8 @@ time.sleep(2)
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://www.youtube.com/@TaptoPlay252')
-os.system(f'xdg-open https://www.facebook.com/profile.php?id=100094116257385')
+os.system(f'xdg-open https://youtube.com/@Asifsakhani877?si=lV7w2UTJGK8FEdZo')
+os.system(f'xdg-open https://www.facebook.com/profile.php?id=100063307807505')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ MR-ALONE ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
@@ -1698,8 +1698,8 @@ def meyexudi():
       print(' \x1b[1;98m║══[𝟸]💥  ONLY ACTIVE ID CLONE 100%')
       print(' \x1b[1;93m║══[𝟸]💥  CP ID WILL BE LOGIN 80%')
       print(' \x1b[1;97m║══[𝟸]💥  WI-FI  AND DATA BOTH WORKING 100%')
-      print(' \x1b[1;95m║══[𝟸]💥  15 DAY 250 TAKA ')
-      print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 500 TAKA ')
+      print(' \x1b[1;95m║══[𝟸]💥  15 DAY 250 Token ')
+      print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 500 Token ')
       os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   Asif Sakhani,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
@@ -1822,7 +1822,7 @@ def menu():
     elif HEART in ['1']:
         crack_file()
     elif HEART in ['2','02']:
-        os.system('xdg-open https://github.com/finalfightr99')
+        os.system('xdg-open https://github.com/asifsakhani3366')
         os.system("python nono.py")
     elif HEART in ['3','03']:
         result()
